@@ -1,12 +1,21 @@
 <h1 align="left">Hey 👋 What's up?</h1>
+
 ###
-<p align="left">I'm Amrit and I'm a passionate developer and tech enthusiast from Bihar, India.</p>
+
+<p align="left">My name is Amrit and I'm a passionate developer from Bihar, India.</p>
+
 ###
+
 <h2 align="left">About me</h2>
+
 ###
+
 <p align="left">✨ Creating bugs since 2021<br>📚 I'm currently pursuing B.Tech<br>🎯 Goals: Software Developer<br>🎲 Fun fact: Let's find a bug</p>
+
 ###
+
 <h2 align="left">I code with</h2>
+
 ###
 
 <div align="left">
@@ -36,11 +45,13 @@
 </div>
 
 ###
+
 <h2 align="left">Connect with me</h2>
+
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" <a href="https://www.linkedin.com/in/amritrajverma/"></a> width="49" height="35" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="49" height="35" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="49" height="35" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="49" height="35" alt="gmail logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="49" height="35" alt="youtube logo"  />
