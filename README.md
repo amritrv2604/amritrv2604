@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Amrit and I'm a passionate developer from Bihar, India.</p>
+<p align="left">My name is Amrit and I'm a passionate developer from Bihar, Bharat.</p>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Languages-Frameworks-Tools</h2>
 
 ###
 
