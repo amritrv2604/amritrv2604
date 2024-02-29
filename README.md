@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Amrit and I'm a passionate developer from Bihar, Bharat.</p>
+<p align="left">This is Amrit and I'm a passionate developer from Bihar, Bharat.</p>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Languages-Frameworks-Tools</h2>
+<h2 align="left">Languages-Frameworks-Tools 👇</h2>
 
 ###
 
@@ -46,7 +46,7 @@
 
 ###
 
-<h2 align="left">Connect with me</h2>
+<h2 align="left">Want to connect 👇</h2>
 
 ###
 
