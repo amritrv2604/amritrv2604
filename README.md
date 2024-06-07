@@ -1,8 +1,8 @@
-<h1 align="left">Hey👋 What's up?</h1>
+<h1 align="left">Hey👋 This is Amrit</h1>
 
 ###
 
-<p align="left">This is Amrit and I'm a passionate developer from Bihar, Bharat.</p>
+<p align="left">A Passionate Developer from Bihar, India</p>
 
 ###
 
