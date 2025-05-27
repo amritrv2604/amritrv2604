@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating and fixing bugs since 2021<br>📚 I'm currently pursuing B.Tech<br>🎯 Goals: Software Developer<br>🎲 Fun fact: Let's find a bug</p>
+<p align="left">✨ Creating and fixing bugs since 2021<br>📚 I'm currently pursuing B.Tech<br>🎯 Goals: Software Developer / Full Stack Developer <br>🎲 Fun fact: Let's find a bug</p>
 
 ###
 
