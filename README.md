@@ -59,9 +59,9 @@ Some highlights include:
 
 ## 🤝 Connect With Me  
 
-- 💼 LinkedIn: *(https://www.linkedin.com/in/amritrajverma/)*
-- 🌐 Portfolio: *(Add if available)*
-- 📧 Email: *(Optional)*
+- 💼 LinkedIn: *https://www.linkedin.com/in/amritrajverma/*
+- 🌐 Portfolio: *https://arv-portfolio.vercel.app/*
+- 📧 Email: *amritverma7890@gmail.com*
 
 ---
 
