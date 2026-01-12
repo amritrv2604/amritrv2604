@@ -1,49 +1,76 @@
-<h1 align="left">Hey👋 This is Amrit</h1>
+# Hey 👋, I'm Amrit Raj  
 
-###
+🚀 **Software Developer | Web Developer | CSE Graduate**  
+📍 Patna, Bihar, India  
 
-<p align="left">A Passionate Developer from Patna, Bihar, India</p>
+---
 
-###
+## 👨‍💻 About Me  
 
-<h2 align="left">About me</h2>
+I'm a passionate software developer with a strong background in **web development**.  
+I love building real-world projects, fixing bugs, and learning new technologies.
 
-###
+- 💻 Creating and breaking code since **2021**
+- 🎓 **B.Tech in Computer Science & Engineering**
+- 🌱 Focused on **Full Stack Web Development**
+- 🧠 Strong interest in problem-solving & clean code
+- 🎯 Career Goal: **Software Developer / Full Stack Developer**
+- ⚡ Fun Fact: If there's a bug, I'll find it 🐞
 
-<p align="left">✨ Creating and fixing bugs since 2021<br>📚 I'm currently pursuing B.Tech<br>🎯 Goals: Software Developer / Full Stack Developer <br>🎲 Fun fact: Let's find a bug</p>
+---
 
-###
+## 🛠️ Tech Stack  
 
-<h2 align="left">Languages-Frameworks-Tools 👇</h2>
+### 🚀 Languages  
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 
-###
+### 🌐 Frontend  
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="38" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="38" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="38" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="38" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="38" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="38" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="38" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="38" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="38" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="38" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="38" alt="googlecloud logo"  />
-</div>
+### 🔧 Backend & Database  
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
 
-###
+### 🧰 Tools & Platforms  
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode)
 
-###
+---
+
+## 📂 Projects  
+
+I have built multiple projects using modern web technologies.  
+Some highlights include:
+
+- 🌐 Responsive Web Applications  
+- 🧩 JavaScript & React-based projects  
+- 🔐 Backend-powered apps with authentication  
+- 📊 Database-driven systems  
+
+👉 **Check out my repositories to see my work in action!**
+
+---
+
+## 📊 GitHub Stats  
+
+![Amrit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 🤝 Connect With Me  
+
+- 💼 LinkedIn: *(Add your link)*
+- 🌐 Portfolio: *(Add if available)*
+- 📧 Email: *(Optional)*
+
+---
+
+⭐ *If you like my work, consider giving a star to my repositories!*  
