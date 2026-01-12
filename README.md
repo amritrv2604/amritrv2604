@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">A Passionate Developer from Bihar, India</p>
+<p align="left">A Passionate Developer from Patna, Bihar, India</p>
 
 ###
 
