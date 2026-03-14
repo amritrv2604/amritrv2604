@@ -1,7 +1,7 @@
 # Hey 👋, I'm Amrit Raj  
 
 🚀 **Software Developer | Web Developer | CSE Graduate**  
-📍 Patna, Bihar, India  
+📍 Bhubaneshwar, Odisha, India  
 
 ---
 
